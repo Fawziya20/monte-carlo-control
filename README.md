@@ -4,7 +4,7 @@
 To develop a Python program to find the optimal policy for the given RL environment using the Monte Carlo algorithm
 
 ## PROBLEM STATEMENT
-The FrozenLake environment in OpenAI Gym is a gridworld problem that challenges reinforcement learning agents to navigate a slippery terrain to reach a goal state while avoiding hazards. Note that the environment is closed with a fence, so the agent cannot leave the gridworld.
+The FrozenLake environment within OpenAI Gym presents a challenging gridworld problem for reinforcement learning agents. In this scenario, an agent is placed within a 2D grid environment. The objective is to guide the agent from its initial position to a designated goal state while avoiding treacherous hazards. Notably, the agent cannot exit the boundaries of this enclosed gridworld as it is surrounded by a fence.
 
 ## MONTE CARLO CONTROL ALGORITHM
 Step 1:
